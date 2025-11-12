@@ -1,0 +1,23 @@
+body {
+    background-color: #6473a4;
+    text-align: center;
+}
+
+#a {
+    color: rgb(114,16,80);
+    text-align: center;
+}
+
+table {
+    border: 5px solid black;
+    border-style: solid;
+}
+
+td {
+    border: 2 px solid black;
+    border-style: solid;
+}
+
+#fon {
+    font-size: 100px;
+}
